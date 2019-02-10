@@ -1,0 +1,4 @@
+--the amount of mp you start with
+ mp_level = 100
+--how long it takes for your mp to go up
+ mp_speed = 1
